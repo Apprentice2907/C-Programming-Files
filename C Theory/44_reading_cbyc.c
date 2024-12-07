@@ -4,7 +4,7 @@ int main()
 {
     char ch;
     FILE *ptr;
-    ptr = fopen("harry.txt", "r");
+    ptr = fopen("Parul.txt", "r");
     while (1)
     {
         ch = fgetc(ptr); 
